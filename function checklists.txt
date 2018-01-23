@@ -1,0 +1,30 @@
+Writing Functions
+===================================================================
+1. Start function definitions with def.
+
+2. Function names can only have characters, numbers and
+   underscore '_' character. It must not start with a number.
+
+3. Open parenthesis after the function name.
+
+4. Arguments after opening parenthesis separated by commas.
+
+5. Each argument must be unique, no duplicates.
+
+6. Close the parenthesis after the last argument.
+
+7. Add colon to end of the function after closing parenthesis.
+
+8. Indent all lines of code in the function by only 4 spaces.
+
+9. To end the function deindent 4 spaces.
+
+Calling Functions
+===================================================================
+1. Call the function by typing its name
+
+2. Put a '(' character after the function name.
+
+3. Put each argument into the parentheses separated by commas.
+
+4. Close the function call using ')'.
