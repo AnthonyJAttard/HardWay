@@ -14,12 +14,13 @@ target = open(filename, 'w')
 print("Truncating the file. Goodbye!")
 target.truncate()
 
-print("Now I'm going to ask you for three new lines.")
-line1 = input("Line 1: ")
-line2 = input("Line 2: ")
-line3 = input("Line 3: ")
+print("Now I'm going to ask you for three lines.")
 
-print("I'm going to write these to the file.")
+line1 = input("line 1: ")
+line2 = input("line 2: ")
+line3 = input("line 3: ")
+
+print("I'm going to write them to the file.")
 
 target.write(line1)
 target.write("\n")
