@@ -1,0 +1,44 @@
+print   - outputs data to the console
+
+()      - parentheses, part of function declaration and definition, groups 
+          arithmetic operations
+
+#       - begins a comment
+
+""      - used to create string literals
+''      - as above
+
+=       Assignment operator
+
+Arithmentic Oerators
++       addition, denotes a positive number
+-       subtraction, negation or negarive number
+*       multiplication
+/       division
+%       modulus (remainder)
+**      power of x ** y
+~       bitwise inversion
+
+Logical or Boolean Operators
+True
+False
+==      equal to
+!=      not equal to
+>       greater than
+<       less than
+>=      greater than or equal to
+<=      less than or equal to
+
+or      
+and 
+not
+
+True  or True  is True
+True  or False is True
+False or True  is True
+False or False is False
+
+True  and True  is True
+True  and False is False
+False and True  is False
+False and False is False
